@@ -14,7 +14,7 @@ function App() {
       <TodoForm />
       <Tabs />
       <TodoList />
-      <WeatherApp />
+      
     </div>
   );
 }
